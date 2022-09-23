@@ -1,7 +1,7 @@
 {
-    "ownerNumber": "6288223674569s.whatsapp.net", 
-    "ownerName": "Dika Official", 
-    "botName": "NEOBOT-STORE",
+    "ownerNumber": "6288296831250s.whatsapp.net", 
+    "ownerName": "Denis Official", 
+    "botName": "DENIS-BOT",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/"IMG-20220815-WA0001.jpg", 
@@ -10,10 +10,10 @@
     "yootube": "https://youtube.com/channel/Dika-md",
      
     "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0882-2367-4569",
-    "textBarisDonate2": "Ovo : 0882-2367-4569",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0882-2367-4569",
+    "textBarisDonate1": "Dana : 0877-9359-1508",
+    "textBarisDonate2": "Ovo : 0877-9359-1508",
+    "textBarisDonate3": "Gopay : 0877-9359-1508",
+    "textBarisDonate4": "Pulsa : 0877-9359-1508",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Rest Api",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Dika Official"
+        "packname": "© Denis",
+        "author": "Denis Official"
     }
 }
